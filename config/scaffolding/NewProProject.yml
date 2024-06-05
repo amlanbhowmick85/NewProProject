@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: NewProProject
+  gitServerName: ABC
+  gitUrl: https://github.com/amlanbhowmick85/NewProProject
+  gitUsername: amlanbhowmick85
+  gitBranch: main
